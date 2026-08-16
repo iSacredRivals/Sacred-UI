@@ -1,6 +1,6 @@
 --[[
     ════════════════════════════════════════════════════════════════════════════════
-    📖 EJEMPLO DE USO DE LA LIBRERÍA SACRED UI (GITHUB LOADSTRING READY)
+    📖 EJEMPLO DE USO DE LA LIBRERÍA SACRED UI 
     ════════════════════════════════════════════════════════════════════════════════
 ]]
 
